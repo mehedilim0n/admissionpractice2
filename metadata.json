@@ -1,0 +1,6 @@
+
+{
+  "name": "University Admission Quiz",
+  "description": "An endless quiz app to help students prepare for university admission tests in Bangladesh, like the Dhaka University entrance exam. Generates relevant questions using the Gemini API.",
+  "requestFramePermissions": []
+}
